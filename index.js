@@ -30,5 +30,6 @@ const dixit () {
 
 function newfeatureAdd()
 {
-    console.log("this is a new feature")
+    console.log("this is a new feature");
+    console.log("this is a new geat a");
 }
