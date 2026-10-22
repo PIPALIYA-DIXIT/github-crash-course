@@ -6,3 +6,10 @@ function sayName()
 {
     console.log("Myname is")
 } 
+
+function isAboute18()
+{
+    return age>=18
+}
+
+const collage = "gec rajkot";
