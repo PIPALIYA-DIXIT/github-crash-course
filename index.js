@@ -26,3 +26,9 @@ const dixit () {
     console.log("dixit is my name");
 }
 
+
+
+function newfeatureAdd()
+{
+    console.log("this is a new feature")
+}
