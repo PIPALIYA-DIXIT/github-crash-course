@@ -7,9 +7,7 @@ function sayName()
     console.log("Myname is")
 } 
 
-function isAboute18()
-{
-    return age>=18
-}
+
+const sugext = "idriuh";
 
 const collage = "gec rajkot";
