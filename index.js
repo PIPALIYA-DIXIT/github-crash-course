@@ -19,7 +19,4 @@ const add()
     console.log("this is new add function")
 }
 
-conste name ()
-{
-    console.log("my ane ois fihriuh");
-}
+const userid = "10";
