@@ -17,10 +17,11 @@ const collage = "gec rajkot";
 const add()
 {
     console.log("this is new add function")
-<<<<<<< HEAD
 }
 
 const userid = "10";
-=======
+
+
+const dixit () {
+    console.log("dixit is my name");
 }
->>>>>>> parent of 4d94bd8 (name function is added)
